@@ -1,0 +1,7 @@
+dist/
+logs/
+build-switch/
+upstream/
+*.nro
+*.log
+__pycache__/
