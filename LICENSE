@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----------------------------------------------------------------------------
-This project is a derivative work built on top of krkr-ns and krkrsdl2
-(MIT, Copyright (C) Kirikiri SDL2 Developers), the KiriKiri2/KiriKiri Z
-engine (KiriKiri license, Copyright (c), W.Dee and contributors), and other
-bundled third-party components that retain their own licenses.
-See the licenses/ directory for the complete inventory.
