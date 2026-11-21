@@ -119,3 +119,17 @@ The source code of this project is released under the **MIT** license (inherited
 **中文**：本项目自有代码以 [MIT](https://opensource.org/licenses/MIT) 许可发布（见 [`LICENSE`](LICENSE)）；捆绑组件随附各自许可文本，完整清单见 [`licenses/`](licenses/) 目录。
 
 **English**: This project's own code is released under the [MIT](https://opensource.org/licenses/MIT) license (see [`LICENSE`](LICENSE)); bundled components ship with their own license texts, inventoried in the [`licenses/`](licenses/) directory.
+
+---
+
+## 📄 许可 | License
+
+**中文**：本项目代码以 [MIT](LICENSE) 许可发布。本项目是 [krkr-ns](https://github.com/DrFlyingPig/krkr-ns)（MIT）与 [krkrsdl2](https://github.com/krkrsdl2/krkrsdl2)（MIT）之上、包含 [KiriKiri2/Z](https://github.com/krkrz/krkr2) 引擎组件的衍生作品；所捆绑的第三方组件保留其各自许可，完整清单见上游仓库的许可文件。
+
+**English**: This project's code is released under the [MIT](LICENSE) license. It is a derivative work built on [krkr-ns](https://github.com/DrFlyingPig/krkr-ns) (MIT), [krkrsdl2](https://github.com/krkrsdl2/krkrsdl2) (MIT) and KiriKiri2/Z engine components; bundled third-party components retain their own licenses — see the upstream repositories for the complete inventory.
+
+> 补充 | Note: This project is a derivative work built on top of krkr-ns and krkrsdl2
+(MIT, Copyright (C) Kirikiri SDL2 Developers), the KiriKiri2/KiriKiri Z
+engine (KiriKiri license, Copyright (c), W.Dee and contributors), and other
+bundled third-party components that retain their own licenses.
+See the licenses/ directory for the complete inventory.
